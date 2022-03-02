@@ -14,7 +14,7 @@
 - ⌛ Experiências anteriores: Estagiário na B3 de dezembro/2020 a agosto/2021 | Estagiário na Vivo (Telefônica Brasil) de fevereiro/2020 a novembro/2020
 - 💡 Desenvolvedor Backend com foco na linguagem Java e experiência na criação e manutenção de sistemas de integração, sistemas de mensageria, SOAP Web Services e APIs REST. Experiência no desenvolvimento de aplicações em Java EE e Spring usando o Weblogic Server e, também, Tomcat.
 - ✔️ Metologias ágeis (SAFe, Kanban e Scrum)
-
+- _Menção honrosa à minha conta original (https://github.com/gabrieltherock-zz). Perdi acesso a ela por conta do 2º fator de autenticação_
 ----
 
 ### 💻 Principais Tecnologias
