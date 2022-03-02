@@ -12,15 +12,17 @@
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste
 - 💻 Cargo atual: Analista Desenvolvedor Java na B3 desde setembro/2021
 - ⌛ Experiências anteriores: Estagiário na B3 de dezembro/2020 a agosto/2021 | Estagiário na Vivo (Telefônica Brasil) de fevereiro/2020 a novembro/2020
+- ✔️ Experiências de trabalho com metologias ágeis (SAFe, Kanban e Scrum)
+
 - 💡 Desenvolvedor Java Backend com experiência no desenvolvimento e manutenção de aplicações em Java EE (sistemas de integração, sistemas de mensageria com IBM MQ, SOAP Web Services e APIs REST) e Spring Boot com Java 8. 
 - Testes unitários com JUnit e Mockito. 
-- Scripts e pavimentação de aplicações em servidores Linux e Solaris. 
+- Desenvolvimento e manutenção de scripts e pavimentação de aplicações em servidores Linux e Solaris. 
 - Servidores de aplicação WebLogic 12c, Tomcat e JBoss. 
-- Manutenção e desenvolvimento em banco de dados Oracle, MySQL e Elasticsearch. 
+- Desenvolvimento e manutenção em banco de dados Oracle, MySQL e Elasticsearch. 
 - Versionamento de código com Git. 
 - Continuous Integration e Continuous Delivery com XLRelease e Jenkins. 
 - Ferramentas ALM (Jira, Bitbucket, Bamboo e Confluence).
-- ✔️ Experiências de trabalho com metologias ágeis (SAFe, Kanban e Scrum)
+
 - ☹️ _Menção honrosa à minha conta original (https://github.com/gabrieltherock-zz). Perdi acesso a ela por conta do 2º fator de autenticação._
 ----
 
