@@ -17,6 +17,7 @@
 
 ### 💡 Informações técnicas
 - Desenvolvedor Java Backend com experiência no desenvolvimento e manutenção de aplicações em Java EE (sistemas de integração, sistemas de mensageria com IBM MQ, SOAP Web Services e APIs REST) e Spring Boot com Java 8. 
+- SOLID e boas práticas na hora de desenvolver aplicações usando o paradigma da Programação Orientada a Objetos.
 - Testes unitários com JUnit e Mockito. 
 - Desenvolvimento e manutenção de scripts e pavimentação de aplicações em servidores Linux e Solaris. 
 - Servidores de aplicação WebLogic 12c, Tomcat e JBoss. 
