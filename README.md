@@ -6,7 +6,7 @@
 
 ---- 
 
-# 🤙 Sobre mim # 
+### 🤙 Sobre mim
 - 🇧🇷 Brasileiro
 - ♍ 20 anos
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste
@@ -15,7 +15,7 @@
 - ✔️ Experiências de trabalho com metologias ágeis (SAFe, Kanban e Scrum)
 - - ☹️ _Menção honrosa à minha conta original (https://github.com/gabrieltherock-zz). Perdi acesso a ela por conta do 2º fator de autenticação._
 
-# 💡 Informações técnicas #
+### 💡 Informações técnicas
 - Desenvolvedor Java Backend com experiência no desenvolvimento e manutenção de aplicações em Java EE (sistemas de integração, sistemas de mensageria com IBM MQ, SOAP Web Services e APIs REST) e Spring Boot com Java 8. 
 - Testes unitários com JUnit e Mockito. 
 - Desenvolvimento e manutenção de scripts e pavimentação de aplicações em servidores Linux e Solaris. 
