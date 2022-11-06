@@ -8,20 +8,23 @@
 - Brasileiro. Nasci e moro em São Paulo, SP.
 - 21 anos de idade.
 - Formado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste.
-- Cargo atual: Analista Desenvolvedor Java na B3 desde setembro/2021. Atuo no desenvolvimento e manutenção de sistemas que integram a B3 ao Banco Central e a outras instituições do Sistema Financeiro Nacional.
+- Cargo atual: Analista Desenvolvedor Java na B3 desde setembro/2021. Atuo no desenvolvimento e manutenção de sistemas críticos de mensageria que integram a B3 ao Banco Central e a outras instituições do Sistema Financeiro Nacional.
 - Experiências anteriores: Estagiário na B3 de dezembro/2020 a agosto/2021 | Estagiário na Vivo (Telefônica Brasil) de fevereiro/2020 a novembro/2020.
 - Experiências de trabalho com metologias ágeis (SAFe, Kanban e Scrum).
 - _Menção honrosa à minha conta original (https://github.com/gabrieltherock-zz). Perdi acesso a ela por conta do 2º fator de autenticação._
 
 ### 💡 Informações técnicas
-- Desenvolvedor Java Backend com experiência no desenvolvimento e manutenção de aplicações em Java EE (sistemas de integração, sistemas de mensageria com IBM MQ, SOAP Web Services e APIs REST) e Spring Boot com Java 8. 
+- Desenvolvedor Java Backend com experiência no desenvolvimento e manutenção de sistemas críticos de Mensageria e de Integração no geral usando várias tecnologias.
+- Java 8 (sistemas de integração, sistemas de mensageria com IBM MQ, SOAP Web Services e APIs REST).
+- APIs REST usando Spring Boot e outras bibliotecas do ecossistema Spring.
 - SOLID e boas práticas na hora de desenvolver aplicações usando o paradigma da Programação Orientada a Objetos.
-- Testes unitários com JUnit e Mockito. 
+- Testes unitários e de integração com JUnit e Mockito. 
 - Desenvolvimento e manutenção de scripts e pavimentação de aplicações em servidores Linux e Solaris. 
-- Servidores de aplicação WebLogic 12c, Tomcat e JBoss. 
+- Servidores de aplicação WebLogic 12c, Tomcat e JBoss.
 - Desenvolvimento e manutenção em banco de dados Oracle, MySQL e Elasticsearch. 
-- Versionamento de código com Git. 
+- Versionamento de código com Git.
 - Continuous Integration e Continuous Delivery com XLRelease e Jenkins. 
+- Monitoração de aplicações com Dynatrace
 - Ferramentas ALM (Jira, Bitbucket, Bamboo e Confluence).
 
 ----
