@@ -10,7 +10,7 @@
 - Formado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste.
 - Cargo atual: Engenheiro de Software Pleno na B3 desde fevereiro/2023. Atuo no desenvolvimento e manutenção de sistemas críticos de mensageria e de integração (middlewares) do mercado financeiro com necessidade de alta performance, resiliência e alto volume usando várias tecnologias. Desenvolvemos aplicações que integram a B3 a outros sistemas internos importantes e à RSFN (Rede do Sistema Financeiro Nacional).
 - Experiências anteriores: 
-   - Engenheiro de Software Júnior na B3 de agosto/2021 a janeiro/2023
+   - Engenheiro de Software Júnior na B3 de setembro/2021 a janeiro/2023
    - Estagiário na B3 de dezembro/2020 a agosto/2021
    - Estagiário na Vivo (Telefônica Brasil) de fevereiro/2020 a novembro/2020.
 - Experiências de trabalho com metologias ágeis (SAFe, Kanban e Scrum).
