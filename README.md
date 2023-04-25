@@ -1,6 +1,6 @@
 ### 👋 Hello, World! I'm Gabriel  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/gabriel-rocha-89352317b/](https://www.linkedin.com/in/gabrielrochasouza/))]([https://www.linkedin.com/in/gabriel-rocha-89352317b/](https://www.linkedin.com/in/gabrielrochasouza/))
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrochasouza/)](https://www.linkedin.com/in/gabrielrochasouza/)
 
 ---- 
 
