@@ -8,24 +8,29 @@
 - Brasileiro. Nasci e moro em São Paulo, SP.
 - 21 anos de idade.
 - Formado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste.
-- Cargo atual: Analista Desenvolvedor Java na B3 desde setembro/2021. Atuo no desenvolvimento e manutenção de sistemas críticos de mensageria que integram a B3 ao Banco Central e a outras instituições do Sistema Financeiro Nacional.
-- Experiências anteriores: Estagiário na B3 de dezembro/2020 a agosto/2021 | Estagiário na Vivo (Telefônica Brasil) de fevereiro/2020 a novembro/2020.
+- Cargo atual: Engenheiro de Software Pleno na B3 desde fevereiro/2023. Atuo no desenvolvimento e manutenção de sistemas críticos de mensageria e de integração (middlewares) do mercado financeiro com necessidade de alta performance, resiliência e alto volume usando várias tecnologias. Desenvolvemos aplicações que integram a B3 a outros sistemas internos importantes e à RSFN (Rede do Sistema Financeiro Nacional).
+- Experiências anteriores: Engenheiro de Software Júnior na B3 de agosto/2021 a janeiro/2023 | Estagiário na B3 de dezembro/2020 a agosto/2021 | Estagiário na Vivo (Telefônica Brasil) de fevereiro/2020 a novembro/2020.
 - Experiências de trabalho com metologias ágeis (SAFe, Kanban e Scrum).
 - _Menção honrosa à minha conta original (https://github.com/gabrieltherock-zz). Perdi acesso a ela por conta do 2º fator de autenticação._
 
 ### 💡 Informações técnicas
 - Desenvolvedor Java Backend com experiência no desenvolvimento e manutenção de sistemas críticos de Mensageria e de Integração no geral usando várias tecnologias.
-- Java 8 (sistemas de integração, sistemas de mensageria com IBM MQ, SOAP Web Services e APIs REST).
+- Java 8 e 11
 - APIs REST usando Spring Boot e outras bibliotecas do ecossistema Spring.
-- SOLID e boas práticas na hora de desenvolver aplicações usando o paradigma da Programação Orientada a Objetos.
-- Testes unitários e de integração com JUnit e Mockito. 
-- Desenvolvimento e manutenção de scripts e pavimentação de aplicações em servidores Linux e Solaris. 
+- Apache Kafka, IBM MQ, Apache Camel, Spring Batch, Apache Kafka
+- Docker
+- SOLID, Design Patterns e boas práticas na hora de desenvolver aplicações usando o paradigma da Programação Orientada a Objetos.
+- Uso do Sonarlint e do Sonarqube para garantir a qualidade do código desenvolvido
+- Testes unitários e de integração com JUnit e Mockito
+- Desenvolvimento e manutenção de scripts e pavimentação de aplicações em servidores Linux, Solaris e Windows.
 - Servidores de aplicação WebLogic 12c, Tomcat e JBoss.
-- Desenvolvimento e manutenção em banco de dados Oracle, MySQL e Elasticsearch. 
+- Desenvolvimento e manutenção em banco de dados Oracle, MySQL e Elasticsearch.
+- Code Review
 - Versionamento de código com Git.
-- Continuous Integration e Continuous Delivery com XLRelease e Jenkins. 
-- Monitoração de aplicações com Dynatrace
+- Continuous Integration e Continuous Delivery com XLRelease e Jenkins.
 - Ferramentas ALM (Jira, Bitbucket, Bamboo e Confluence).
+- Monitoração de aplicações com Dynatrace
+- Experiências de trabalho com metodologias ágeis (SAFe, Kanban e Scrum).
 
 ----
 
