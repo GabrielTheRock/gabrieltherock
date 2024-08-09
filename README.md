@@ -6,9 +6,9 @@
 
 ### 🤙 Sobre mim
 - Brasileiro. Nasci e moro em São Paulo, SP.
-- 21 anos de idade.
+- 22 anos de idade.
 - Formado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste.
-- Cargo atual: Engenheiro de Software Pleno na B3 desde fevereiro/2023. Atuo no desenvolvimento e manutenção de sistemas críticos de mensageria e de integração (middlewares) do mercado financeiro com necessidade de alta performance, resiliência e alto volume usando várias tecnologias. Desenvolvemos aplicações que integram a B3 a outros sistemas internos importantes e à RSFN (Rede do Sistema Financeiro Nacional).
+- Cargo atual: Engenheiro de Software Pleno na B3 desde fevereiro/2023. Atuo no desenvolvimento e manutenção de sistemas críticos de mensageria e de integração (middlewares) do mercado financeiro com necessidade de alta performance, resiliência e alto volume usando várias tecnologias. Desenvolvemos aplicações que integram a B3 a outros sistemas internos importantes e à RSFN (Rede do Sistema Financeiro Nacional). Principais soluções: InfoHub, iMercado, e-Watcher, Mensageria SPB...
 - Experiências anteriores: 
    - Engenheiro de Software Júnior na B3 de setembro/2021 a janeiro/2023
    - Estagiário na B3 de dezembro/2020 a agosto/2021
@@ -18,10 +18,11 @@
 
 ### 💡 Informações técnicas
 - Desenvolvedor Java Backend com experiência no desenvolvimento e manutenção de sistemas críticos de Mensageria e de Integração no geral usando várias tecnologias.
-- Java 8 e 11
+- Java 8, 11 e 17
 - APIs REST usando Spring Boot e outras bibliotecas do ecossistema Spring.
 - Apache Kafka, IBM MQ, Apache Camel, Spring Batch
-- Docker
+- Docker, Kubernetes
+- Oracle Cloud (Streaming, Oke, GoldenGate, Autonomous, Vault...)
 - SOLID, Design Patterns e boas práticas na hora de desenvolver aplicações usando o paradigma da Programação Orientada a Objetos.
 - Uso do Sonarlint e do Sonarqube para garantir a qualidade do código desenvolvido
 - Testes unitários e de integração com JUnit e Mockito
@@ -29,8 +30,8 @@
 - Servidores de aplicação WebLogic 12c, Tomcat e JBoss.
 - Desenvolvimento e manutenção em banco de dados Oracle, MySQL e Elasticsearch.
 - Code Review
-- Versionamento de código com Git.
-- Continuous Integration e Continuous Delivery com XLRelease e Jenkins.
+- Versionamento de código com GitHub.
+- Continuous Integration e Continuous Delivery com XLRelease, Jenkins, GitHub Actions.
 - Ferramentas ALM (Jira, Bitbucket, Bamboo e Confluence).
 - Monitoração de aplicações com Dynatrace
 - Experiências de trabalho com metodologias ágeis (SAFe, Kanban e Scrum).
