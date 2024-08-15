@@ -1,6 +1,6 @@
 ### LinkedIn
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrochasouza/)](https://www.linkedin.com/in/gabrielrochasouza/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldarochasouza/)](https://www.linkedin.com/in/gabrieldarochasouza/)
 
 ### Estatísticas do GitHub
 
